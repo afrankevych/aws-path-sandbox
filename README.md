@@ -1,2 +1,3 @@
 # sandbox
-AWS Solution Architect learning path sandbox
+
+A sample webapp used as sandbox for practicing AWS Solution Architect learning path.
